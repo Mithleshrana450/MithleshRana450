@@ -1,12 +1,29 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Mithlesh%20Rana&fontSize=52&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Penetration%20Tester%20%7C%20AI%20Security&descAlignY=60&descAlign=50&descSize=18&descColor=88ccff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1b2a,70:0a2a1a,100:000000&height=220&section=header&fontColor=00ff88&animation=fadeIn)
 
-<img src="https://komarev.com/ghpvc/?username=MithleshRana450&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" />
+<!-- Animated Name - Professional Orbitron Font -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3000&pause=2000&color=00FF88&center=true&vCenter=true&width=700&height=90&lines=MITHLESH+RANA" alt="Mithlesh Rana" />
+
+<!-- Animated Role Typewriter -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=88CCFF&center=true&vCenter=true&width=700&height=45&lines=Ethical+Hacker;Penetration+Tester;AI+Security+Researcher;BCA+Cybersecurity+Student;Bug+Hunter+%7C+CTF+Player" alt="Typing roles" />
+
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/Mithleshrana450?label=Followers&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/Mithleshrana450?tab=followers)
 &nbsp;
-<a href="https://github.com/MithleshRana450?tab=followers"><img src="https://img.shields.io/github/followers/MithleshRana450?label=Followers&style=for-the-badge&color=00ff88&labelColor=0d1117" /></a>
+[![Profile Views](https://komarev.com/ghpvc/?username=Mithleshrana450&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Mithleshrana450)
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Available%20for%20Roles-00ff88?style=for-the-badge&labelColor=0d1117" />
+![Status](https://img.shields.io/badge/Status-🟢_Available_for_Roles-00ff88?style=for-the-badge&labelColor=0d1117)
+
+<br/><br/>
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mithleshrana450/MithleshRana450/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mithleshrana450/MithleshRana450/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mithleshrana450/MithleshRana450/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -50,7 +67,7 @@ status      : 🟢 Available for Cybersecurity Roles & Freelance
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🌐 Networking & Security Frameworks
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0d1117?style=for-the-badge&logoColor=00ff88)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=for-the-badge&logoColor=00ff88)
 ![DNS](https://img.shields.io/badge/DNS-0d1117?style=for-the-badge&logoColor=00ff88)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logoColor=white)
 ![CVE Research](https://img.shields.io/badge/CVE_Research-cc0000?style=for-the-badge&logoColor=white)
@@ -121,10 +138,12 @@ status      : 🟢 Available for Cybersecurity Roles & Freelance
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MithleshRana450&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MithleshRana450&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithleshrana450&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Mithleshrana450&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithleshRana450&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" />
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithleshrana450&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" />
 
 </div>
 
@@ -135,11 +154,11 @@ status      : 🟢 Available for Cybersecurity Roles & Freelance
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithleshrana450/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MithleshRana450)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mithleshrana450)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cr4ckm4st3r450/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techmr236@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916206429713)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=firefox&logoColor=black)](https://mithleshrana450.github.io/mithleshrana-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://mithleshrana450.github.io/mithleshrana-portfolio/)
 
 </div>
 
@@ -147,6 +166,6 @@ status      : 🟢 Available for Cybersecurity Roles & Freelance
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&text=Build.%20Break.%20Secure.%20Repeat.&fontSize=20&fontColor=00ff88&animation=fadeIn&fontAlignY=65)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a2a1a,70:0d1b2a,100:0a0a0a&height=130&section=footer&text=Build.%20Break.%20Secure.%20Repeat.&fontSize=22&fontColor=00ff88&animation=fadeIn&fontAlignY=65)
 
 </div>
